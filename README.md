@@ -1,2 +1,2 @@
 # ansible-role-firewall
-Configure firewall on linux servers using ufw or firewalld
+Configure firewall on Debian or Ubuntu Linux servers using ufw
